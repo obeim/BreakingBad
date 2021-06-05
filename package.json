@@ -18,7 +18,7 @@
   "scripts": {
     "dev": "craco start",
     "start": "serve -s build",
-    "build": "craco build",
+    "build": "react-scripts build",
     "test": "craco test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build "
